@@ -51,3 +51,9 @@ The landmarkToPoint function converts a landmark (a point on the face mesh) to a
 
 This script can be deployed on any system with a camera, Python, and the required dependencies installed. It could be used in a real-world setting to help prevent accidents caused by drivers falling asleep at the wheel.
 
+## Contributing
+Contributions to the `Driver conscious caution system` project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
